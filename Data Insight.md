@@ -10,7 +10,7 @@ Here are the key insights derived from the data analysis:
    - Shooting guards (SG) are the most common position, followed by power forwards (PF), point guards (PG), small forwards (SF), and centers (C).
    - This distribution provides insights into the composition of the workforce and the roles employees fulfill within the organization.
 
-3.*** Predominant Age Group Among Employees***:
+3.***Predominant Age Group Among Employees***:
    - The predominant age group among employees is the age range of 20-29, indicating a youthful workforce demographic.
    - This age group constitutes the largest proportion of the workforce, highlighting the company's reliance on young talent.
 
