@@ -43,15 +43,6 @@ The dataset provided by ABC Company consists of employee records with attributes
 
 *)Utilized seaborn for enhanced visualization with regression lines and joint plots.
 
-## Insights Gained:
-
-*)Found a weak positive correlation between age and salary.
-
-*)Identified the Los Angeles Clippers as the team with the highest salary expenditure.
-
-*)Discovered that the predominant age group among employees is 20-29.
-
-*)Analyzed the distribution of employees across teams and positions to understand organizational dynamics.
 
 ## Additional Information:
 
