@@ -7,7 +7,8 @@ Here are the key insights derived from the data analysis:
    - Teams like the * *New Orleans Pelicans* *, * *Portland Trail Blazers* *, and * *Detroit Pistons* * have the highest employee counts, each comprising approximately ***4.38%*** of the total workforce.
 
 2. ***Segregation of Employees Based on Positions***:
-   - * *Shooting guards (SG)* * are the most common position, followed by* * power forwards (PF)* *, * * point guards (PG)* *, * *small forwards (SF)* *, and * *centers (C)* *.
+   - * *Shooting guards (SG)* * are the most common position, followed by * *power forwards (PF)* *, * *point guards (PG)* *, * *small forwards (SF)* *, and
+       * *centers (C)* *.
    - This distribution provides insights into the composition of the workforce and the roles employees fulfill within the organization.
 
 3.***Predominant Age Group Among Employees***:
